@@ -28,33 +28,36 @@ Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male
 
 ---
 
-3) Genome Profiling
+### 3) Genome Profiling
 
 .checklist
 
-:::info
-**Observations:**
-:::
+> **Observations:**
+```
+blabla
+```
 
 ---
 
-4) Contigging/Purging
+### 4) Contigging/Purging
 
 .checklist
 
-:::info
-**Observations:**
-:::
+> **Observations:**
+```
+blabla
+```
 
 ---
 
-5) Scaffolding
+### 5) Scaffolding
 
 .checklist
 
-:::info
-**Observations:**
-:::
+> **Observations:**
+```
+blabla
+```
 
 
 ---
