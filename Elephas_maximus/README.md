@@ -11,7 +11,7 @@
 
 > **Observations:**
 ```
-blabla
+None
 ```
 
 ---
@@ -34,7 +34,7 @@ Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male
 
 > **Observations:**
 ```
-blabla
+None
 ```
 
 ---
@@ -45,7 +45,7 @@ blabla
 
 > **Observations:**
 ```
-blabla
+None
 ```
 
 ---
@@ -56,7 +56,7 @@ blabla
 
 > **Observations:**
 ```
-blabla
+None
 ```
 
 
