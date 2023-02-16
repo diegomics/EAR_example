@@ -18,14 +18,14 @@ None
 
 ### 2) Data Profile
 
-| Data           | Total reads (M) | Length (b) |     |
+| Data           | Total reads (M) | Length (b) | Extra info |
 | -------------- | --------------- | ---------- | --- |
-| HiFi           | 11.2            | 16000      |     |
+| HiFi           | 11.2            | 16000      | {multiqc html link} |
 |                |                 |            |     |
 | ONT            | NA              |            |     |
 | Illumina PE    | NA              |            |     |
 |                |                 |            |     |
-| HiC: Arima     | 906.6           | 150        |     |
+| HiC: Arima     | 906.6           | 150        | {multiqc html link} |
 |                |                 |            |     |
 | Other: Bionano |                 |            |     |
 
