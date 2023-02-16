@@ -15,6 +15,4 @@
 **Observations:**
 :::
 
-- [x] Write the tests
-- [ ] Implement the functions
-- [ ] Fix the code formatting
+> Veniet tempus quo ista quae nunc latent in lucem dies extrahat et longioris aevi diligentia.
