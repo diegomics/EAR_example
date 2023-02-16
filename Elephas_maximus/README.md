@@ -1,7 +1,7 @@
 ### 1) Species Data
 
 | ToLID            | mEleMax1        |
-| ---------------- | --------------- |
+| :--------------- | :-------------- |
 | Species          | Elephas maximus |
 | Class            | Mammalia        |
 | Exp. Genome size |                 |
