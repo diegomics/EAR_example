@@ -18,7 +18,17 @@ None
 
 ### 2) Data Profile
 
-.checklist
+| Data           | Total reads (M) | Length (b) |     |
+| -------------- | --------------- | ---------- | --- |
+| HiFi           | 11.2            | 16000      |     |
+|                |                 |            |     |
+| ONT            | NA              |            |     |
+| Illumina PE    | NA              |            |     |
+|                |                 |            |     |
+| HiC: Arima     | 906.6           | 150        |     |
+|                |                 |            |     |
+| Other: Bionano |                 |            |     |
+
 
 
 > **Observations:**
@@ -59,6 +69,9 @@ None
 None
 ```
 
+---
+
+### *) Checklist
 
 ---
 
