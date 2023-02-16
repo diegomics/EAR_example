@@ -40,13 +40,11 @@ Tools employed: FastQC v0.11.9; Cutadapt v3.5; Fastp v0.23.2; MultiQC v1.11; Seq
 
 ### 3) Genome Profiling
 
-| Estimation            | Plot        |
-| :--------------- | :-------------- |
-| Size          | ![](https://i.imgur.com/ax3Cw59.png) ![](https://i.imgur.com/9HtzpOO.png) |
-| Heterozygosity          | Elephas maximus |
-| Ploidy          | Elephas maximus |
-
-.checklist
+| Estimation     | Value | Plot                    |
+|:-------------- | ----- |:----------------------- |
+| Size           |       | {genomescope2 plot}     |
+| Heterozygosity |       | {genomescope2 plot log} |
+| Ploidy         |       | {smudge plot}           |
 
 > **Observations:**
 ```
