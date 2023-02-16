@@ -14,3 +14,7 @@
 :::info
 **Observations:**
 :::
+
+- [x] Write the tests
+- [ ] Implement the functions
+- [ ] Fix the code formatting
