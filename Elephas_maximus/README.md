@@ -15,3 +15,7 @@
 Observations:
 Veniet tempus quo ista quae nunc latent in lucem dies extrahat et longioris aevi diligentia.
 ```
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
