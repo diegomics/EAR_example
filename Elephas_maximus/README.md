@@ -1,11 +1,3 @@
-# EAR 👂
-
-### Responsible:
-### bla 
-### bla
-
----
-
 ### 1) Species Data
 
 | ToLID            | mEleMax1        |
@@ -21,6 +13,26 @@
 ```
 blabla
 ```
+
+
+### 2) Data Profile
+
+.checklist
+
+
+> **Observations:**
+```
+Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male adult Asian elephant (indicus)
+```
+
+---
+
+# EAR 👂
+
+### Responsible:
+### bla 
+### bla
+
 
 
 
