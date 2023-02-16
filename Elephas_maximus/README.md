@@ -6,7 +6,7 @@
 | Class            | Mammalia        |
 | Exp. Genome size |                 |
 | Exp. Chromosomes |                 |
-| Karyotype        |                 |
+| Karyotype        |           ![](https://i.imgur.com/ax3Cw59.png)      |
 | GoaT             | [link](https://goat.genomehubs.org/record?recordId=9783&result=taxon&taxonomy=ncbi#Elephas%20maximus) |
 
 > **Observations:**
