@@ -1,8 +1,10 @@
 # EAR 👂
 
-## Responsible:
-## bla 
-## bla
+### Responsible:
+### bla 
+### bla
+
+---
 
 ### 1) Species Data
 
