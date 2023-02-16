@@ -14,6 +14,7 @@
 blabla
 ```
 
+---
 
 ### 2) Data Profile
 
@@ -24,6 +25,37 @@ blabla
 ```
 Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male adult Asian elephant (indicus)
 ```
+
+---
+
+3) Genome Profiling
+
+.checklist
+
+:::info
+**Observations:**
+:::
+
+---
+
+4) Contigging/Purging
+
+.checklist
+
+:::info
+**Observations:**
+:::
+
+---
+
+5) Scaffolding
+
+.checklist
+
+:::info
+**Observations:**
+:::
+
 
 ---
 
