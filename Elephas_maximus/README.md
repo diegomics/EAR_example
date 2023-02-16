@@ -30,11 +30,11 @@ None
 | Other: Bionano |                 |            |     |
 
 
+```
+Tools employed: FastQC v0.11.9; Cutadapt v3.5; Fastp v0.23.2; MultiQC v1.11; SeqKit v2.3.0
+```
 
-> **Observations:**
-```
-Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male adult Asian elephant (indicus)
-```
+> **Observations:** Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male adult Asian elephant (indicus)
 
 ---
 
