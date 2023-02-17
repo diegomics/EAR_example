@@ -77,6 +77,27 @@ None
 
 ### *) Checklist
 
+| Data       | Y/N | Comments |
+| ---------- | --- | -------- |
+| HiFi ≥ 25x |     |          |
+| N50 ~15 kb |     |          |
+|            |     |          |
+| ONT ≥ 60x  |     |          |
+| N50 ~30 kb |     |          |
+|            |     |          |
+| HiC ≥ 50x  |     |          |
+
+
+
+| Final assembly metrics | Y/N | Comments |
+| ---------------------- | --- | -------- |
+| Contig N50 > 1 Mb      |     |          |
+| Scaffold N50 > 10 Mb   |     |          |
+| Kmer completness > 90% |     |          |
+| QV > 40                |     |          |
+| BUSCO single > 90%     |     |          |
+| BUSCO duplicated < 5%  |     |          |
+
 ---
 
 # EAR 👂
