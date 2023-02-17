@@ -118,14 +118,6 @@ None
 
 
 
-| ID                    | Total Mb |    GC | Scaf | Cont | Gaps | Gaps Mb | Longest Scaf | Scaf N50 | Scaff L50 | Scaf N95 | Scaf L95 | Longest Cont | Cont N50 | Cont L50 | Cont N95 | Cont L95 | QV (HiFi) | QV (Illumina) | Kmer Compl | KCompl both | BUSCO-C | BUSCO-S | Hap                                  | both Hap                             | shared                               | HiC Contact map    |
-|:--------------------- | --------:| -----:| ----:| ----:| ----:| ------- | ------------:| --------:| ---------:| --------:| --------:| ------------:| --------:| --------:| --------:| --------:| ---------:| ------------- | ----------:| ----------- | -------:| -------:| ------------------------------------ | ------------------------------------ | ------------------------------------ | --- |
-| mEleMax1.Bionano_hap1 |  2208.78 | 44.12 |   76 |  143 |   67 | 1.46    |       356.32 |   137.47 |         5 |    20.35 |       22 |       210.28 |   121.38 |        8 |     6.16 |       41 |     68.19 |               |      96.65 | 99.40       |    97.2 |    96.4 | ![](https://i.imgur.com/VXzxrUo.png) | ![](https://i.imgur.com/jWh1gmy.png) | ![](https://i.imgur.com/9IrUFVy.png) |     |
-| mEleMax1.Bionano_hap2 |  2214.74 |  44.1 |   71 |  127 |   56 | 5.11    |       381.26 |   137.61 |         5 |    20.31 |       22 |       209.92 |   121.92 |        8 |     6.54 |       32 |     68.42 |               |      96.66 | -           |    97.2 |    96.3 | ![](https://i.imgur.com/kbsPaMJ.png) |                                      |                                      |     |
-|
-| mEleMax1.YaHS_hap1 |  2208.78 | 44.12 |   76 |  143 |   67 | 1.46    |       356.32 |   137.47 |         5 |    20.35 |       22 |       210.28 |   121.38 |        8 |     6.16 |       41 |     68.19 |               |      96.65 | 99.40       |    97.2 |    96.4 | ![](https://i.imgur.com/VXzxrUo.png) | ![](https://i.imgur.com/jWh1gmy.png) | ![](https://i.imgur.com/9IrUFVy.png) |     |
-| mEleMax1.YaHS_hap2 |  2214.74 |  44.1 |   71 |  127 |   56 | 5.11    |       381.26 |   137.61 |         5 |    20.31 |       22 |       209.92 |   121.92 |        8 |     6.54 |       32 |     68.42 |               |      96.66 | -           |    97.2 |    96.3 | ![](https://i.imgur.com/kbsPaMJ.png) |                                      |                                      |     |
-
 
 
 | ID                    | Total Mb |    GC | Scaf | Cont | Gaps | Gaps Mb | Longest Scaf | Scaf N50 | Scaff L50 | Scaf N95 | Scaf L95 | Longest Cont | Cont N50 | Cont L50 | Cont N95 | Cont L95 | QV (HiFi) | QV (Illumina) | Kmer Compl | KCompl both | BUSCO-C | BUSCO-S | Hap                                  | both Hap                             | shared                               | HiC Contact map |
