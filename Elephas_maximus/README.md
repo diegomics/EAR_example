@@ -43,8 +43,8 @@ Tools employed: FastQC v0.11.9; Cutadapt v3.5; Fastp v0.23.2; MultiQC v1.11; Seq
 
 | Estimation     | Value | Plot                    |
 |:-------------- | ----- |:----------------------- |
-| Size           |       | {genomescope2 plot}     |
-| Heterozygosity |       | {genomescope2 plot log} |
+| Size           |       | ![](data/linear_plot.png) |
+| Heterozygosity |       | ![](data/log_plot.png) |
 | Ploidy         |       | {smudge plot}           |
 
 > **Observations:**
