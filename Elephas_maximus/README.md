@@ -21,12 +21,12 @@ None
 
 | Data           | Total reads (M) | Length (b) | Extra info |
 | -------------- | --------------- | ---------- | --- |
-| HiFi           | 11.2            | 16000      |  [multiQC](data/rCarCar2.HiFi_trimmed_multiqc_report.html) |
+| HiFi           | 11.2            | 16000      |  [multiQC](data/rCarCar2.HiFi_trimmed_multiqc_report.html) [multiQC](data/rCarCar2.OmniC_multiqc_report.html) |
 |                |                 |            |     |
 | ONT            | NA              |            |     |
 | Illumina PE    | NA              |            |     |
 |                |                 |            |     |
-| HiC: Arima     | 906.6           | 150        | [multiQC](data/rCarCar2.OmniC_multiqc_report.html) |
+| HiC: Arima     | 906.6           | 150        |  |
 |                |                 |            |     |
 | Other: Bionano |                 |            |     |
 
