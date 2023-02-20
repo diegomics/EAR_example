@@ -16,9 +16,9 @@ Here you will find genome assembly reports approved by the ERGA Sequencing and A
 | Biosample        | [link](www...) |
 
 > **Observations:**
-```
+\```
 Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male adult
-```
+\```
 
 ---
 
@@ -36,9 +36,9 @@ Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male
 | Other: Bionano |                 |            |                                                   |
 
 > **Observations:**
-```
+\```
 Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
-```
+\```
 
 ---
 
@@ -51,9 +51,9 @@ Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 | Ploidy         | 2         | ![](data/xSpeNam1.smudge.png)      |
 
 > **Observations:**
-```
+\```
 None
-```
+\```
 
 ---
 
@@ -68,9 +68,9 @@ None
 | xSpeNam1.purged_hap2  |  1234.56 | 12.34 |   12 |  123 |   12 | 1.23    |       123.45 |   123.45 |         1 |    12.34 |       12 |       123.45 |   123.45 |        1 |     1.23 |       12 | 12.34 |      12.34 | 12.34       |    12.3 |    12.3 | ![](data/xSpeNam1.purged_hap2.hap.png)  | ![](data/xSpeNam1.purged_hap2.both.png)  | ![](data/xSpeNam1.purged_hap2.shared.png)  |
 
 > **Observations:**
-```
+\```
 None
-```
+\```
 
 ---
 
@@ -86,9 +86,9 @@ None
 
 
 > **Observations:**
-```
+\```
 None
-```
+\```
 
 ---
 
