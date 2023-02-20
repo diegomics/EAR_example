@@ -21,12 +21,12 @@ None
 
 | Data           | Total reads (M) | Length (b) | Extra info |
 | -------------- | --------------- | ---------- | --- |
-| HiFi           | 11.2            | 16000      |  [multiQC](data/rCarCar2.HiFi_trimmed_multiqc_report.html) [multiQC](data/rCarCar2.OmniC_multiqc_report.html) |
+| HiFi           | 11.2            | 16000      | [multiQC](data/rCarCar2.HiFi_trimmed_multiqc_report.html) |
 |                |                 |            |     |
 | ONT            | NA              |            |     |
 | Illumina PE    | NA              |            |     |
 |                |                 |            |     |
-| HiC: Arima     | 906.6           | 150        |  |
+| HiC: Arima     | 906.6           | 150        | [multiQC](data/rCarCar2.OmniC_multiqc_report.html) |
 |                |                 |            |     |
 | Other: Bionano |                 |            |     |
 
@@ -43,9 +43,9 @@ Tools employed: FastQC v0.11.9; Cutadapt v3.5; Fastp v0.23.2; MultiQC v1.11; Seq
 
 | Estimation     | Value | Plot                    |
 |:-------------- | ----- |:----------------------- |
-| Size           |       | ![](data/linear_plot.png) ![](data/log_plot.png) |
-| Heterozygosity |       |  |
-| Ploidy         |       | {smudge plot}           |
+| Size           |       | ![](data/linear_plot.png) |
+| Heterozygosity |       | ![](data/log_plot.png)  |
+| Ploidy         |       | ![](data/smudge.png)    |
 
 > **Observations:**
 ```
