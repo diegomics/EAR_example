@@ -27,7 +27,7 @@ Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male
 ### 2) Data Profile
 
 | Data           | Total reads (M) | Length (b) | Extra info                                        |
-| -------------- | --------------- | ---------- | ------------------------------------------------- |
+| :------------- | --------------: | ---------: | ------------------------------------------------- |
 | HiFi           | 12.3            | 12345      | [multiQC](data/xSpeNam1.HiFi_multiqc_report.html) |
 |                |                 |            |                                                   |
 | ONT            | NA              |            |                                                   |
@@ -47,7 +47,7 @@ Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 ### 3) Genome Profiling
 
 | Estimation     | Value     | Plot                               |
-|:-------------- | --------- |:---------------------------------- |
+|:-------------- | --------: |----------------------------------- |
 | Size           | 123456789 | ![](data/xSpeNam1.linear_plot.png) |
 | Heterozygosity | 0.12      | ![](data/xSpeNam1.log_plot.png)    |
 | Ploidy         | 1         | ![](data/xSpeNam1.smudge.png)      |
@@ -97,7 +97,7 @@ None
 ### *) Checklist
 
 | Data       | Y/N | Comments |
-| ---------- | --- | -------- |
+| :--------- | --- | -------- |
 | HiFi ≥ 25x |     |          |
 | N50 ~15 kb |     |          |
 |            |     |          |
@@ -109,7 +109,7 @@ None
 
 
 | Final assembly metrics | Y/N | Comments |
-| ---------------------- | --- | -------- |
+| :--------------------- | --- | -------- |
 | Contig N50 > 1 Mb      |     |          |
 | Scaffold N50 > 10 Mb   |     |          |
 | Kmer completness > 90% |     |          |
