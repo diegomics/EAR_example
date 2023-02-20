@@ -21,7 +21,7 @@ None
 
 | Data           | Total reads (M) | Length (b) | Extra info |
 | -------------- | --------------- | ---------- | --- |
-| HiFi           | 11.2            | 16000      | {multiqc html link} |
+| HiFi           | 11.2            | 16000      |  [multiQC](data/rCarCar2.HiFi_trimmed_multiqc_report.html) |
 |                |                 |            |     |
 | ONT            | NA              |            |     |
 | Illumina PE    | NA              |            |     |
