@@ -3,6 +3,8 @@
 Here you will find genome assembly reports approved by the ERGA Sequencing and Assembly Committee.
 
 
+
+### EAR template
 ```
 ### 1) Species Data
 
