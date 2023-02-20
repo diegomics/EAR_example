@@ -26,7 +26,7 @@ None
 | ONT            | NA              |            |     |
 | Illumina PE    | NA              |            |     |
 |                |                 |            |     |
-| HiC: Arima     | 906.6           | 150        | {multiqc html link} |
+| HiC: Arima     | 906.6           | 150        | [multiQC](data/rCarCar2.OmniC_multiqc_report.html) |
 |                |                 |            |     |
 | Other: Bionano |                 |            |     |
 
