@@ -6,7 +6,6 @@
 | Class            | Mammalia        |
 | Exp. Genome size |                 |
 | Exp. Chromosomes | 27+X+Y          |
-| Karyotype        |                 |
 | GoaT             | [link](https://goat.genomehubs.org/record?recordId=9783&result=taxon&taxonomy=ncbi#Elephas%20maximus) |
 | Biosample        | [link](https://www.ebi.ac.uk/ena/browser/view/SAMN10973763) |
 
