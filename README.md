@@ -6,6 +6,8 @@ Here you will find genome assembly reports approved by the ERGA Sequencing and A
 
 ### EAR template
 ```
+# #Start of the ERGA Assembly Report
+
 ### 1) Species Data
 
 | ToLID            | xSpeNam1       |
@@ -119,9 +121,12 @@ None
 
 ---
 
-# EAR 👂
+### 6) Something something
 
-### Responsible:
-### bla 
-### bla
+Responsible
+Date
+Something
+
+
+## #End of the ERGA Assembly Report
 ```
