@@ -14,7 +14,7 @@ Here you will find genome assembly reports approved by the ERGA Sequencing and A
 |:---------------- |:-------------- |
 | Species          | Species name   |
 | Class            | Name           |
-| Exp. Genome size | 123456789      |
+| Exp. Genome size | 123,456,789    |
 | Exp. Chromosomes | 12+X+Y         |
 | GoaT             | [link](www...) |
 | Biosample        | [link](www...) |
@@ -30,7 +30,7 @@ Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male
 
 | Data           | Total reads (M) | Length (b) | Extra info                                        |
 | :------------- | --------------: | ---------: | ------------------------------------------------- |
-| HiFi           | 12.3            | 12345      | [multiQC](data/xSpeNam1.HiFi_multiqc_report.html) |
+| HiFi           | 12.3            | 12,345     | [multiQC](data/xSpeNam1.HiFi_multiqc_report.html) |
 |                |                 |            |                                                   |
 | ONT            | NA              |            |                                                   |
 | Illumina PE    | NA              |            |                                                   |
@@ -48,11 +48,11 @@ Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 
 ### 3) Genome Profiling
 
-| Estimation     | Value     | Plot                               |
-|:-------------- | --------: |----------------------------------- |
-| Size           | 123456789 | ![](data/xSpeNam1.linear_plot.png) |
-| Heterozygosity | 0.12      | ![](data/xSpeNam1.log_plot.png)    |
-| Ploidy         | 1         | ![](data/xSpeNam1.smudge.png)      |
+| Estimation     | Value       | Plot                               |
+|:-------------- | ----------: |----------------------------------- |
+| Size           | 123,456,789 | ![](data/xSpeNam1.linear_plot.png) |
+| Heterozygosity | 0.12        | ![](data/xSpeNam1.log_plot.png)    |
+| Ploidy         | 1           | ![](data/xSpeNam1.smudge.png)      |
 
 > **Observations:** None.
 \```
