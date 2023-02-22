@@ -3,7 +3,7 @@
 Here you will find genome assembly reports approved by the ERGA Sequencing and Assembly Committee.
 
 
-Please use the following template to produce you species EAR:
+Please use the following template to produce your species EAR:
 ### EAR template
 ```
 # #Start of the ERGA Assembly Report
