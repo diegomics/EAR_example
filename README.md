@@ -29,13 +29,13 @@ Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male
 ### 2) Data Profile
 
 | Data           | Total reads (M) | Length (b) | Extra info                                        |
-| :------------- | --------------: | ---------: | ------------------------------------------------- |
-| HiFi           | 12.3            | 12,345     | [multiQC](data/xSpeNam1.HiFi_multiqc_report.html) |
+|:-------------- | ---------------:| ----------:| ------------------------------------------------- |
+| HiFi           |            12.3 |     12,345 | [multiQC](data/xSpeNam1.HiFi_multiqc_report.html) |
 |                |                 |            |                                                   |
-| ONT            | NA              |            |                                                   |
-| Illumina PE    | NA              |            |                                                   |
+| ONT            |              NA |            |                                                   |
+| Illumina PE    |              NA |            |                                                   |
 |                |                 |            |                                                   |
-| HiC: OmniC     | 123.4           | 123        | [multiQC](data/xSpeNam1.HiC_multiqc_report.html)  |
+| HiC: OmniC     |           123.4 |        123 | [multiQC](data/xSpeNam1.HiC_multiqc_report.html)  |
 |                |                 |            |                                                   |
 | Other: Bionano |                 |            |                                                   |
 
@@ -48,11 +48,11 @@ Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 
 ### 3) Genome Profiling
 
-| Estimation     | Value       | Plot                               |
-|:-------------- | ----------: |----------------------------------- |
+| Estimation     |       Value | Plot                               |
+|:-------------- | -----------:| ---------------------------------- |
 | Size           | 123,456,789 | ![](data/xSpeNam1.linear_plot.png) |
-| Heterozygosity | 0.12        | ![](data/xSpeNam1.log_plot.png)    |
-| Ploidy         | 1           | ![](data/xSpeNam1.smudge.png)      |
+| Heterozygosity |        0.12 | ![](data/xSpeNam1.log_plot.png)    |
+| Ploidy         |           1 | ![](data/xSpeNam1.smudge.png)      |
 
 > **Observations:** None.
 \```
