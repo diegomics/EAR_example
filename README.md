@@ -19,7 +19,7 @@ Here you will find genome assembly reports approved by the ERGA Sequencing and A
 | GoaT             | [link](www...) |
 | Biosample        | [link](www...) |
 
-> **Observations:**
+> **Observations:** Something.
 \```
 Samples obtained from frozen fibroblast cell pellets (-80C) from a deceased male adult
 \```
@@ -54,9 +54,9 @@ Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 | Heterozygosity | 0.12      | ![](data/xSpeNam1.log_plot.png)    |
 | Ploidy         | 1         | ![](data/xSpeNam1.smudge.png)      |
 
-> **Observations:**
+> **Observations:** None.
 \```
-None
+Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 \```
 
 ---
@@ -71,9 +71,9 @@ None
 | xSpeNam1.purged_hap1  |  1234.56 | 12.34 |   12 |  123 |   12 | 1.23    |       123.45 |   123.45 |         1 |    12.34 |       12 |       123.45 |   123.45 |        1 |     1.23 |       12 | 12.34 |      12.34 | 12.34       |    12.3 |    12.3 | ![](data/xSpeNam1.purged_hap1.hap.png)  | ![](data/xSpeNam1.purged_hap1.both.png)  | ![](data/xSpeNam1.purged_hap1.shared.png)  |
 | xSpeNam1.purged_hap2  |  1234.56 | 12.34 |   12 |  123 |   12 | 1.23    |       123.45 |   123.45 |         1 |    12.34 |       12 |       123.45 |   123.45 |        1 |     1.23 |       12 | 12.34 |      12.34 | 12.34       |    12.3 |    12.3 | ![](data/xSpeNam1.purged_hap2.hap.png)  | ![](data/xSpeNam1.purged_hap2.both.png)  | ![](data/xSpeNam1.purged_hap2.shared.png)  |
 
-> **Observations:**
+> **Observations:** None.
 \```
-None
+Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 \```
 
 ---
@@ -89,9 +89,9 @@ None
 | xSpeNam1.YaHS_hap2    |  1234.56 | 12.34 |   12 |  123 |   12 | 1.23    |       123.45 |   123.45 |         1 |    12.34 |       12 |       123.45 |   123.45 |        1 |     1.23 |       12 | 12.34 |      12.34 | 12.34       |    12.3 |    12.3 | ![](data/xSpeNam1.YaHS_hap2.hap.png)    | ![](data/xSpeNam1.YaHS_hap2.both.png)    | ![](data/xSpeNam1.YaHS_hap2.shared.png)    | ![](data/xSpeNam1.YaHS_hap2.hic.png)    |
 
 
-> **Observations:**
+> **Observations:** None.
 \```
-None
+Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 \```
 
 ---
