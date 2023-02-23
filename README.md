@@ -95,7 +95,7 @@ Tools employed: Tool1 v0.1.2; Tool2 v3.4.5
 
 ---
 
-### *) Checklist
+### 6) Checklist
 
 | Data       | Y/N | Comments |
 | :--------- | --- | -------- |
